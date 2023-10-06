@@ -1,0 +1,7 @@
+
+
+from qiskit import IBMQ
+
+
+IBMQ.save_account("cd30a64d4ee5550d3fe3c6167fd286a375e40c3c52c3dfa6828882a9329f249526b9fb509e8bc2803b055136d2cdbc811064396edee6e25f80920ad3cfae16ce")
+

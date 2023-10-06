@@ -1,0 +1,5 @@
+progressbar2==4.2.0
+numpy==1.19.5
+qiskit==0.39.4
+orqviz==0.3.0
+networkx==2.6.3
